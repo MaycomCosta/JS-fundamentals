@@ -13,9 +13,9 @@ That's how it look's like when you click to test the exercises, the "input" i di
 ![JavaScript Fundamentals](/public/assets/2.png)
 
 
-### Ajustes e melhorias
+### Adjustments and improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still in development, and the next updates will focus on the following tasks:
 
 - [x] Make responsive
 - [x] Launch it
