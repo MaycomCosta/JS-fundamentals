@@ -1,8 +1,25 @@
-# React + Vite
+# JavaScript Fundamentals
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Home page
 
-Currently, two official plugins are available:
+here's where you can see some of my JS exercises that taught me some fundamentals in JS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![JavaScript Fundamentals](/public/assets/1.png)
+
+### Exercises
+
+That's how it look's like when you click to test the exercises, the "input" i did like it was the function
+
+![JavaScript Fundamentals](/public/assets/2.png)
+
+
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] Make responsive
+- [x] Launch it
+- [ ] Add more exercises
+
+
+[⬆ Voltar ao topo](#Convertor-De-Reais)<br>
