@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "FizzBuzz",
+    "description": "Envie uma sequencia de N a N, mas para múltiplos de 3 imprime 'Fizz' e para múltiplos de 5 imprime 'Buzz'. Para números que são múltiplos de ambos, imprime 'FizzBuzz'.",
+    "methods": ["for", "if", "push", "join"],
+    "functionName": "fizzBuzz",
+    "instructions": "Envie uma sequencia de N a N. Ela retornará uma sequência de números, substituindo múltiplos de 3 por 'Fizz', múltiplos de 5 por 'Buzz' e múltiplos de ambos por 'FizzBuzz'.",
+    "parameters": ["N", "N"]
+  },
+  {
+    "id": 2,
+    "title": "Is Palindrome",
+    "description": "Verifica se uma string é lida da mesma forma de frente para trás e de trás para frente, ignorando espaços e pontuação.",
+    "methods": ["split", "reverse", "join"],
+    "functionName": "isPalindrome",
+    "instructions": "Passe uma string como argumento. A função retornará true se a string for um palíndromo e false caso contrário.",
+    "parameters": ["String"]
+  },
+  {
+    "id": 3,
+    "title": "Find Longest Word",
+    "description": "Encontra a palavra mais longa em uma frase. Retorna a palavra mais longa.",
+    "methods": ["toLowerCase", "replace", "split", "forEach", "if"],
+    "functionName": "findLongestWord",
+    "instructions": "Forneça uma frase como entrada. A função retornará a palavra mais longa dessa frase.",
+    "parameters": ["String"]
+  },
+  {
+    "id": 4,
+    "title": "Find Largest Number",
+    "description": "Encontra o maior número em um array de números.",
+    "methods": ["if", "for", "split", "map"],
+    "functionName": "findLargestNumber",
+    "instructions": "Passe um array de números como entrada. A função retornará o maior número do array.",
+    "parameters": ["ArrayNumbs"]
+  },
+  {
+    "id": 5,
+    "title": "Count Vowels",
+    "description": "Conta o número de vogais em uma string fornecida. Considere 'a', 'e', 'i', 'o', 'u' como vogais.",
+    "methods": ["toLowerCase", "match"],
+    "functionName": "countVowels",
+    "instructions": "Forneça uma string como entrada. A função retornará a contagem de vogais na string.",
+    "parameters": ["String"]
+  },
+  {
+    "id": 6,
+    "title": "Chunk Array",
+    "description": "Divide um array em partes menores de um tamanho especificado e retorna um novo array contendo essas partes.",
+    "methods": ["for", "slice", "push", "split", "map"],
+    "functionName": "chunkArray",
+    "instructions": "Forneça um array e um tamanho de divisão como entrada. A função retornará um array contendo subarrays do tamanho especificado.",
+    "parameters": ["Arr", "size"]
+  },
+  {
+    "id": 7,
+    "title": "First Non-Repeating Char",
+    "description": "Encontra o primeiro caractere não repetido em uma string e o retorna. Se não houver tal caractere, retorna null.",
+    "methods": ["for", "if"],
+    "functionName": "firstNonRepeatingChar",
+    "instructions": "Passe uma string como entrada. A função retornará o primeiro caractere que não se repete na string ou null se todos os caracteres forem repetidos.",
+    "parameters": ["String"]
+  },
+  {
+    "id": 8,
+    "title": "Remove Duplicates",
+    "description": "Remove todos os valores duplicados de um array e retorna um novo array contendo apenas elementos únicos.",
+    "methods": ["if", "for", "includes", "push", "split", "replace", "toLowerCase", "join"],
+    "functionName": "removeDuplicates",
+    "instructions": "Forneça um array como entrada. A função retornará um novo array contendo apenas valores únicos.",
+    "parameters": ["Arr"]
+  },
+  {
+    "id": 9,
+    "title": "Reverse Words",
+    "description": "Inverte a ordem das palavras em uma frase, mas mantém as letras dentro de cada palavra na ordem original.",
+    "methods": ["trim", "split", "reverse", "join"],
+    "functionName": "reverseWords",
+    "instructions": "Forneça uma frase como entrada. A função retornará a frase com a ordem das palavras invertida, mas mantendo cada palavra inalterada.",
+    "parameters": ["Arr"]
+  },
+  {
+    "id": 10,
+    "title": "Sum Even Numbers",
+    "description": "Soma todos os números pares em um array e retorna o valor total.",
+    "methods": ["forEach", "if", "split", "map"],
+    "functionName": "sumEvenNumbers",
+    "instructions": "Passe um array de números como entrada. A função retornará a soma de todos os números pares no array.",
+    "parameters": ["Arr"]
+  },
+  {
+    "id": 11,
+    "title": "Find missing number",
+    "description": "ele retorna o numero que falta na sequencia",
+    "methods": ["reduce", "split", "replace", "map", "Math"],
+    "functionName": "findMissingNumber",
+    "instructions": "Passe um array de números como entrada. A função retornará o numero que falta na sequencia",
+    "parameters": ["Arr"]
+  }
+]
