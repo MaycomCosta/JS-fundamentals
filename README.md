@@ -22,4 +22,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Add more exercises
 
 
-[⬆ Voltar ao topo](# JavaScript Fundamentals)<br>
+[⬆ Back to the top](#JavaScript-Fundamentals)<br>
